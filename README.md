@@ -1,5 +1,5 @@
-### Name: Duraiarasan M
-### Reg No: 24901028
+### Name: Geethapriyan A S
+### Reg No: 24900874
 ### EXPERIMENT NO: 1 : Study of basic gates
 
 ### AIM:
